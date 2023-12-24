@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(207, 207, 207);
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+}
+
+.ALL {
+    border: 3px solid rgb(69, 218, 238);
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    background-color: rgb(69, 218, 238);
+}
+
+input {
+    border-radius: 4px;
+    border: unset;
+    padding: 15px 30px;
+}
+
+h1 {
+    color: white;
+}
